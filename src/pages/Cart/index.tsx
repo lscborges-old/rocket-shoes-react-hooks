@@ -5,8 +5,6 @@ import {
   MdRemoveCircleOutline,
 } from 'react-icons/md';
 import { useCart } from '../../hooks/useCart';
-import { ProductList } from '../Home/styles';
-
 import { formatPrice } from '../../util/format';
 import { Container, ProductTable, Total } from './styles';
 
